@@ -1,4 +1,4 @@
-# Pima Indians Diabetes Classification & Explainability
+# Final XAI Project on Pima Indians Diabetes Classification & Explainability
 
 This project demonstrates training a Random Forest classifier on the Pima Indians Diabetes dataset, followed by generating and evaluating model explanations using SHAP and Anchor methods.
 
