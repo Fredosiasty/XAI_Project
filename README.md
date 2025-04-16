@@ -97,7 +97,7 @@ To run this code, download the script file and execute it on your local machine.
 
 ## Actual Outputs
 
-After running the script, you can expect the following detailed outputs:
+After running the script, following detailed outputs are expected:
 
 1. **Console Output:**
 
